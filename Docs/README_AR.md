@@ -13,7 +13,18 @@
 <p align="center">
   <a href="https://pypi.org/project/promptiq/"><img src="https://img.shields.io/pypi/v/promptiq?color=blueviolet&style=for-the-badge"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge"></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge"></a>
+</p>
+
+<p align="center">�  <a href="../README.md">🇬🇧 English</a> ·�  <a href="./README_AR.md">🇸🇦 العربية</a> ·�  <a href="./README_FR.md">🇫🇷 Français</a> ·�  <a href="./README_ZH.md">🇨🇳 中文</a>�</p>�
+</p>
+
+
+<p align="center">
+  <a href="../README.md">&#x1F1EC;&#x1F1E7; English</a> &middot;
+  <a href="./README_AR.md">&#x1F1F8;&#x1F1E6; &#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629;</a> &middot;
+  <a href="./README_FR.md">&#x1F1EB;&#x1F1F7; Fran&ccedil;ais</a> &middot;
+  <a href="./README_ZH.md">&#x1F1E8;&#x1F1F3; &#x4E2D;&#x6587;</a>
 </p>
 
 ---
