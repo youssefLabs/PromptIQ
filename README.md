@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-promptiq.jpg" alt="PromptIQ" width="750">
+  <img src="banar-promptvc.jpg" alt="PromptIQ" width="750">
 </p>
 
 <h1 align="center">PromptIQ</h1>
