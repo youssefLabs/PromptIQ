@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banar-promptvc.jpg" alt="PromptIQ" width="750">
+  <img src="banner-promptiq.jpg" alt="PromptIQ" width="750">
 </p>
 
 <h1 align="center">PromptIQ</h1>
@@ -13,6 +13,21 @@
   <a href="https://pypi.org/project/promptiq/"><img src="https://img.shields.io/pypi/v/promptiq?color=blueviolet&style=for-the-badge" alt="PyPI"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <a href="./README.md">🇬🇧 English</a> ·
+  <a href="./Docs/README_AR.md">🇸🇦 العربية</a> ·
+  <a href="./Docs/README_FR.md">🇫🇷 Français</a> ·
+  <a href="./Docs/README_ZH.md">🇨🇳 中文</a> ·
+  <a href="./Docs/README_ES.md">🇪🇸 Español</a> ·
+  <a href="./Docs/README_DE.md">🇩🇪 Deutsch</a> ·
+  <a href="./Docs/README_PT.md">🇧🇷 Português</a> ·
+  <a href="./Docs/README_TR.md">🇹🇷 Türkçe</a> ·
+  <a href="./Docs/README_RU.md">🇷🇺 Русский</a> ·
+  <a href="./Docs/README_JA.md">🇯🇵 日本語</a> ·
+  <a href="./Docs/README_KO.md">🇰🇷 한국어</a> ·
+  <a href="./Docs/README_HI.md">🇮🇳 हिन्दी</a>
 </p>
 
 <p align="center">
