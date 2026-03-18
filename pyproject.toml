@@ -1,0 +1,43 @@
+[build-system]
+requires      = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name            = "promptiq"
+version         = "1.0.0"
+description     = "Intelligent version control for LLM prompts — commit, diff, judge, A/B test, and auto-improve."
+readme          = "README.md"
+license         = { text = "MIT" }
+requires-python = ">=3.10"
+keywords = [
+  "llm", "prompt", "prompt-engineering", "version-control",
+  "ai", "gpt", "claude", "prompt-management", "cli"
+]
+classifiers = [
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Software Development :: Version Control",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Environment :: Console",
+]
+dependencies = ["click>=8.0"]
+
+[project.optional-dependencies]
+anthropic = ["anthropic>=0.25"]
+openai    = ["openai>=1.0"]
+all       = ["anthropic>=0.25", "openai>=1.0"]
+dev       = ["anthropic>=0.25", "openai>=1.0", "pytest>=7.0", "build", "twine"]
+
+[project.scripts]
+promptiq = "promptiq.cli:cli"
+
+[project.urls]
+Homepage      = "https://github.com/youssefLabs/promptvc"
+Repository    = "https://github.com/youssefLabs/promptvc"
+"Bug Tracker" = "https://github.com/youssefLabs/promptvc/issues"
+
+[tool.setuptools.packages.find]
+where   = ["."]
+include = ["promptiq*"]
